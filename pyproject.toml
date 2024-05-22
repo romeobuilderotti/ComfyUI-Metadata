@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-png-metadata"
+description = "Add custom Metadata fields to your saved PNG files."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/romeobuilderotti/ComfyUI-PNG-Metadata"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-PNG-Metadata"
+Icon = ""
